@@ -423,8 +423,7 @@ Setiap pendekatan memiliki kelebihan dan use case yang tepat, dan proyek ini men
 
 - **Framework**: Laravel 10.x
 - **PHP Version**: ^8.1
-- **Database**: MySQL/MariaDB
-- **License**: MIT
+- **Database**: MySQL
 - **Tugas**: Operasi Database (ORM, Helper, Raw SQL)
 
 ---

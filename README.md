@@ -21,7 +21,7 @@ AgroDisease adalah aplikasi web yang dibangun menggunakan Laravel untuk mengelol
 
 Proyek ini bertujuan untuk mendemonstrasikan pemahaman tentang:
 
-1. **Eloquent ORM**: Penggunaan model, relationships, accessors, dan scopes
+1. **Eloquent ORM**: Penggunaan model, relationships, accessors, dan scopes.
 2. **Query Builder**: Operasi database menggunakan DB facade Laravel
 3. **Raw SQL**: Implementasi query SQL kompleks untuk statistik dan analisis data
 4. **Database Migration**: Struktur database dan indexing
